@@ -34,7 +34,10 @@ This Power BI project analyses historical Olympic data across countries, athlete
 - Olympic Dataset
 - Project Presentation
 - Dashboard Screenshots
-
+  
+Files too big. Please download from here-
+Dataset link: https://drive.google.com/drive/folders/1d-xB_h1UNUwE5qTWUzbsWWzTGv4kzvE1?usp=sharing
+Power BI Dashboard: https://drive.google.com/file/d/1rmMu3mFFDyc3uKJPpNtyzIyiGynqNYl8/view?usp=sharing
 ## Created By
 
 Shivji
