@@ -39,7 +39,7 @@ This Power BI project analyses historical Olympic data across countries, athlete
 The Power BI `.pbix` file exceeds GitHub's browser upload limit.
 
 [Download the complete Power BI dashboard](https://drive.google.com/file/d/1rmMu3mFFDyc3uKJPpNtyzIyiGynqNYl8/view?usp=sharing)
- Dataset link: https://drive.google.com/drive/folders/1d-xB_h1UNUwE5qTWUzbsWWzTGv4kzvE1?usp=sharing
+- Dataset link: https://drive.google.com/drive/folders/1d-xB_h1UNUwE5qTWUzbsWWzTGv4kzvE1?usp=sharing
 
 ## Created By
 
